@@ -1,0 +1,7 @@
+{
+  "manifest_version": 3,
+  "name": "Chrome Extension Template",
+  "description": "A template for creating chrome extensions with CRXJS, Vite and TypeScript",
+  "version": "1.0.0",
+  "action": { "default_popup": "index.html" }
+}
