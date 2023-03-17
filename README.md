@@ -16,6 +16,12 @@ To test your extension, you'll need to enable developer mode in Chrome. To do th
 
 This should also work on any Chromium-based browser.
 
+> As long as the browser is Chromium-based, the url `chrome://extensions` should work. If it doesn't, try `edge://extensions` or `opera://extensions` or `brave://extensions`.
+
+This extension was tested on Chrome (Version 111.0.5563.64), Brave (Version 1.49.120), Edge (Version 111.0.1661.41), and Opera (Version 96.0.4693.80).
+
+There are screenshots attached below showing the loaded extension for different Chromium-based browsers .
+
 <h2>Folder & File Structure</h2>
 
 ```sh
@@ -48,8 +54,31 @@ This should also work on any Chromium-based browser.
 - `vite.config.js`: The Vite configuration file.
 - `yarn.lock`: The file that contains all the dependencies' versions.
 
+<h2>Screenshots</h2>
 
+<h3>Brave Browser</h3>
+
+![Brave Browser](./screenshots/brave.png)
+
+<h3>Chrome Browser</h3>
+
+![Chrome Browser](./screenshots/chrome.png)
+
+<h3>Edge Browser</h3>
+  
+  ![Edge Browser](./screenshots/edge.png)
+
+<h3>Opera Browser</h3>
+
+![Opera Browser](./screenshots/opera.png)
 
 <h2>License</h2>
 
 [MIT License](./LICENSE)
+
+<h2>Creator</h2>
+
+Emmanuel C. Jemeni
+
+- Twitter: [@Jemeni11\_](https://www.twitter.com/Jemeni11_)
+- LinkedIn: [Emmanuel Jemeni](https://www.linkedin.com/in/emmanuel-jemeni)
