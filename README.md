@@ -3,7 +3,7 @@
 
 <h2>Introduction</h2>
 
-This is a template for creating Chrome extensions with CRXJS, Vite, and TypeScript.
+This is a template for creating Chrome extensions with [CRXJS](https://crxjs.dev/vite-plugin/getting-started/vanilla-js/create-project), Vite, and TypeScript.
 How does it work? It's simple. Just run the following command:
 
 ```sh
